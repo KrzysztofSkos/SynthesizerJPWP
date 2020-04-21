@@ -45,7 +45,7 @@ Możesz skorzystać z wykładu profesora A. D. Marshalla z Cardiff University, w
 poszczególnych efektów, a nawet załącza kod efektów napisanych w języku Matlab.
 Proponujemy napisanie któregoś z poniższych efektów:
 - Flanger - dość prosty efekt oparty na opóźnieniu dźwięku (delay),
-- Distortion - prosty, łagodny przester,
+- Overdrive - prosty, łagodny przester,
 - Fuzz - kolejny prosty, ale bardziej agresywny i nieobliczalny przester.
 
 Oczywiście można wybrać jakikolwiek efekt. Trzeba mieć jednak na uwadze to, że niektóre mogą być bardziej czasochłonne.
